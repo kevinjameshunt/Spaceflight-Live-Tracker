@@ -112,9 +112,9 @@ This work is free software; you can redistribute it and/or modify it under the t
 
 Kevin James Hunt - SpaceCalc and SpaceTrans applications and supporting scripts
 Homepage: [http://kevinjameshunt.com](http://kevinjameshunt.com)
-Email: [kevinjameshunt@gmail.com](kevinjameshunt@gmail.com)
+Email: [kevinjameshunt@gmail.com](mailto:kevinjameshunt@gmail.com)
 
-Server-side prediction software and web interface developed by [http://www.hexoc.com](Jon Sowman), [http://www.randomskk.net](Adam Greig), Rich Wareham, Fergus Noble, Ed Moore and many others.
+Server-side prediction software and web interface developed by [Jon Sowman](http://www.hexoc.com), [Adam Greig](http://www.randomskk.net), Rich Wareham, Fergus Noble, Ed Moore and many others.
 
 
 
