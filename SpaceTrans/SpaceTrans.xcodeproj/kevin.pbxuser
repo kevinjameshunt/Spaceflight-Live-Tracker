@@ -1,0 +1,344 @@
+// !$*UTF8*$!
+{
+	0A0D5E491314845E001FE00E /* RootViewController.m:185 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-locationManager:didUpdateToLocation:fromLocation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 185;
+		location = SpaceTrans;
+		modificationTime = 320782805.082327;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0A41CDF41344BD6C003DC28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 200";
+		rLen = 0;
+		rLoc = 6832;
+		rType = 0;
+		vrLen = 2993;
+		vrLoc = 5349;
+	};
+	0A41CE121344C0ED003DC28C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 200";
+		rLen = 0;
+		rLoc = 6832;
+		rType = 0;
+		vrLen = 2889;
+		vrLoc = 5453;
+	};
+	0A4B642313049127000AC757 /* RootViewController.m:144 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-getLocObj:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 144;
+		location = SpaceTrans;
+		modificationTime = 320782805.082217;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0AE18C7D13047BF5006D6991 /* SpaceTrans */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceTrans;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	0AE18C8713047C14006D6991 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0AE18C8813047C14006D6991 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0AE18D4713048018006D6991 /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 637}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1519}";
+		};
+	};
+	0AE18D4813048018006D6991 /* NSObject+SBJSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1549}";
+		};
+	};
+	0AE18D4913048018006D6991 /* NSObject+SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 702}}";
+			sepNavSelRange = "{1902, 35}";
+			sepNavVisRange = "{1282, 924}";
+		};
+	};
+	0AE18D4A13048018006D6991 /* NSString+SBJSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 689}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1549}";
+		};
+	};
+	0AE18D7613048695006D6991 /* RootViewController.m:87 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-startUpdatingLocation";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 87;
+		location = SpaceTrans;
+		modificationTime = 320782805.081926;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0AE18D7B13048697006D6991 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AE18D4713048018006D6991 /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 0;
+	};
+	0AE18D7C13048697006D6991 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AE18D4813048018006D6991 /* NSObject+SBJSON.h */;
+		name = "NSObject+SBJSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	0AE18D7D13048697006D6991 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AE18D4A13048018006D6991 /* NSString+SBJSON.h */;
+		name = "NSString+SBJSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	0AE18D7E13048697006D6991 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AE18D4913048018006D6991 /* NSObject+SBJSON.m */;
+		name = "NSObject+SBJSON.m: 44";
+		rLen = 35;
+		rLoc = 1902;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 1282;
+	};
+	0AE18D9B130487B3006D6991 /* RootViewController.m:144 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-getLocObj:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 144;
+		location = SpaceTrans;
+		modificationTime = 320782805.0821;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0AF3217713228FD700C40849 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpaceTransAppDelegate.h */;
+		name = "SpaceTransAppDelegate.h: 11";
+		rLen = 21;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 0;
+	};
+	0AF3217813228FD700C40849 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 40";
+		rLen = 0;
+		rLoc = 1311;
+		rType = 0;
+		vrLen = 1318;
+		vrLoc = 0;
+	};
+	0AFBC20F131EC2C600403904 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpaceTrans-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kevin/Documents/Old Source Code/SpaceTrans/SpaceTrans-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	0AFBC210131EC2C600403904 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceTransAppDelegate.m */;
+		name = "SpaceTransAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 737;
+		rType = 0;
+		vrLen = 1914;
+		vrLoc = 277;
+	};
+	1D3623240D0F684500981E51 /* SpaceTransAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 618}}";
+			sepNavSelRange = "{187, 21}";
+			sepNavVisRange = "{0, 475}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpaceTransAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{737, 0}";
+			sepNavVisRange = "{277, 1914}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceTrans */ = {
+		activeExec = 0;
+		executables = (
+			0AE18C7D13047BF5006D6991 /* SpaceTrans */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 593}}";
+			sepNavSelRange = "{1311, 0}";
+			sepNavVisRange = "{0, 1318}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 3185}}";
+			sepNavSelRange = "{6832, 0}";
+			sepNavVisRange = "{5453, 2889}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0AE18C7D13047BF5006D6991 /* SpaceTrans */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceTrans */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpaceTrans */,
+		);
+		breakpoints = (
+			0AE18D7613048695006D6991 /* RootViewController.m:87 */,
+			0AE18D9B130487B3006D6991 /* RootViewController.m:144 */,
+			0A4B642313049127000AC757 /* RootViewController.m:144 */,
+			0A0D5E491314845E001FE00E /* RootViewController.m:185 */,
+		);
+		codeSenseManager = 0AE18C8813047C14006D6991 /* Code sense */;
+		executables = (
+			0AE18C7D13047BF5006D6991 /* SpaceTrans */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					501,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323272048;
+			PBXWorkspaceStateSaveDate = 323272048;
+		};
+		perUserProjectItems = {
+			0A41CDF41344BD6C003DC28C /* PBXTextBookmark */ = 0A41CDF41344BD6C003DC28C /* PBXTextBookmark */;
+			0A41CE121344C0ED003DC28C /* PBXTextBookmark */ = 0A41CE121344C0ED003DC28C /* PBXTextBookmark */;
+			0AE18D7B13048697006D6991 /* PBXTextBookmark */ = 0AE18D7B13048697006D6991 /* PBXTextBookmark */;
+			0AE18D7C13048697006D6991 /* PBXTextBookmark */ = 0AE18D7C13048697006D6991 /* PBXTextBookmark */;
+			0AE18D7D13048697006D6991 /* PBXTextBookmark */ = 0AE18D7D13048697006D6991 /* PBXTextBookmark */;
+			0AE18D7E13048697006D6991 /* PBXTextBookmark */ = 0AE18D7E13048697006D6991 /* PBXTextBookmark */;
+			0AF3217713228FD700C40849 /* PBXTextBookmark */ = 0AF3217713228FD700C40849 /* PBXTextBookmark */;
+			0AF3217813228FD700C40849 /* PBXTextBookmark */ = 0AF3217813228FD700C40849 /* PBXTextBookmark */;
+			0AFBC20F131EC2C600403904 /* PlistBookmark */ = 0AFBC20F131EC2C600403904 /* PlistBookmark */;
+			0AFBC210131EC2C600403904 /* PBXTextBookmark */ = 0AFBC210131EC2C600403904 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0AE18C8713047C14006D6991 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

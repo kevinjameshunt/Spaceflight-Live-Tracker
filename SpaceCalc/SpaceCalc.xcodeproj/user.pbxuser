@@ -1,0 +1,478 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SpaceCalcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{266, 1347}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceCalc */ = {
+		activeExec = 0;
+		executables = (
+			CE7BAFB81219B8F300A5CC2D /* SpaceCalc */,
+		);
+	};
+	28216C950DB411BC00E5133A /* BalloonDataViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 949}}";
+			sepNavSelRange = "{2152, 6}";
+			sepNavVisRange = "{808, 1532}";
+			sepNavWindowFrame = "{{15, 61}, {894, 712}}";
+		};
+	};
+	28216C960DB411BC00E5133A /* BalloonDataViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 6370}}";
+			sepNavSelRange = "{3739, 0}";
+			sepNavVisRange = "{2987, 1695}";
+			sepNavWindowFrame = "{{15, 61}, {894, 712}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = CE7BAFB81219B8F300A5CC2D /* SpaceCalc */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceCalc */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpaceCalc */,
+		);
+		breakpoints = (
+			CEFC8DBD121B0C3A002B5FC7 /* BalloonDataViewController.m:252 */,
+			CEFC8DBF121B0C3E002B5FC7 /* BalloonDataViewController.m:260 */,
+			CEFC8DC1121B0C4A002B5FC7 /* BalloonDataViewController.m:361 */,
+			CEFC8DCE121B0D7D002B5FC7 /* BalloonDataViewController.m:357 */,
+			CEFC8DD5121B0D9F002B5FC7 /* BalloonDataViewController.m:359 */,
+			CEFC8DD7121B0DAF002B5FC7 /* BalloonDataViewController.m:365 */,
+			CEFC8DEE121B0F0F002B5FC7 /* BalloonDataViewController.m:430 */,
+			CEFC8EF9121B31BC002B5FC7 /* BalloonDataViewController.m:108 */,
+			CEFC8F14121B388C002B5FC7 /* BalloonDataViewController.m:116 */,
+			CEFC8F16121B3890002B5FC7 /* BalloonDataViewController.m:111 */,
+			CEFC8F21121B3B2F002B5FC7 /* BalloonDataViewController.m:129 */,
+		);
+		codeSenseManager = CE7BAFC91219B90200A5CC2D /* Code sense */;
+		executables = (
+			CE7BAFB81219B8F300A5CC2D /* SpaceCalc */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					557,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304560362;
+			PBXWorkspaceStateSaveDate = 304560362;
+		};
+		perUserProjectItems = {
+			CE5E0DDB12273969000483CC /* PBXTextBookmark */ = CE5E0DDB12273969000483CC /* PBXTextBookmark */;
+			CE7BB0431219FC2400A5CC2D /* PBXBookmark */ = CE7BB0431219FC2400A5CC2D /* PBXBookmark */;
+			CE7BB0441219FC2400A5CC2D /* PBXTextBookmark */ = CE7BB0441219FC2400A5CC2D /* PBXTextBookmark */;
+			CE7C36B41223103C009B84FB /* PBXTextBookmark */ = CE7C36B41223103C009B84FB /* PBXTextBookmark */;
+			CE7C36B51223103C009B84FB /* PBXTextBookmark */ = CE7C36B51223103C009B84FB /* PBXTextBookmark */;
+			CE7C36B71223103C009B84FB /* PBXTextBookmark */ = CE7C36B71223103C009B84FB /* PBXTextBookmark */;
+			CE7C36BE12231191009B84FB /* PBXTextBookmark */ = CE7C36BE12231191009B84FB /* PBXTextBookmark */;
+			CEFC8F2E121B3BE4002B5FC7 /* PBXTextBookmark */ = CEFC8F2E121B3BE4002B5FC7 /* PBXTextBookmark */;
+			CEFC8F35121B3C8C002B5FC7 /* PBXTextBookmark */ = CEFC8F35121B3C8C002B5FC7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CE7BAFC81219B90200A5CC2D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CE5E0DDB12273969000483CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE7C36561220B4E6009B84FB /* MapViewController.m */;
+		name = "MapViewController.m: 185";
+		rLen = 0;
+		rLoc = 4072;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 2897;
+	};
+	CE7BAFB81219B8F300A5CC2D /* SpaceCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceCalc;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CE7BAFC81219B90200A5CC2D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CE7BAFC91219B90200A5CC2D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CE7BB0431219FC2400A5CC2D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE7BAFE61219BAEA00A5CC2D /* Icon.png */;
+	};
+	CE7BB0441219FC2400A5CC2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceCalcAppDelegate.m */;
+		name = "SpaceCalcAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1347;
+		vrLoc = 266;
+	};
+	CE7C36551220B4E6009B84FB /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {735, 754}}";
+			sepNavSelRange = "{1130, 0}";
+			sepNavVisRange = "{233, 1248}";
+		};
+	};
+	CE7C36561220B4E6009B84FB /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 3276}}";
+			sepNavSelRange = "{4072, 0}";
+			sepNavVisRange = "{2897, 1033}";
+			sepNavWindowFrame = "{{15, 61}, {894, 712}}";
+		};
+	};
+	CE7C36B41223103C009B84FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		name = "BalloonDataViewController.m: 122";
+		rLen = 0;
+		rLoc = 3739;
+		rType = 0;
+		vrLen = 1695;
+		vrLoc = 2987;
+	};
+	CE7C36B51223103C009B84FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE7C36B61223103C009B84FB /* CLLocation.h */;
+		name = "CLLocation.h: 92";
+		rLen = 18;
+		rLoc = 2290;
+		rType = 0;
+		vrLen = 1694;
+		vrLoc = 1797;
+	};
+	CE7C36B61223103C009B84FB /* CLLocation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocation.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h;
+		sourceTree = "<absolute>";
+	};
+	CE7C36B71223103C009B84FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE7C36551220B4E6009B84FB /* MapViewController.h */;
+		name = "MapViewController.h: 47";
+		rLen = 0;
+		rLoc = 1130;
+		rType = 0;
+		vrLen = 1248;
+		vrLoc = 233;
+	};
+	CE7C36BE12231191009B84FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE7C36561220B4E6009B84FB /* MapViewController.m */;
+		name = "MapViewController.m: 185";
+		rLen = 0;
+		rLoc = 4072;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 2897;
+	};
+	CEFC8DBD121B0C3A002B5FC7 /* BalloonDataViewController.m:252 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-createPicker";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 252;
+		modificationTime = 303776838.241416;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CEFC8DBF121B0C3E002B5FC7 /* BalloonDataViewController.m:260 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-createPicker";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 260;
+		location = SpaceCalc;
+		modificationTime = 303776838.245052;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8DC1121B0C4A002B5FC7 /* BalloonDataViewController.m:361 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-pickerView:titleForRow:forComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 361;
+		location = SpaceCalc;
+		modificationTime = 303776838.2560121;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8DCE121B0D7D002B5FC7 /* BalloonDataViewController.m:357 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-pickerView:titleForRow:forComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 357;
+		location = SpaceCalc;
+		modificationTime = 303776838.262881;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8DD5121B0D9F002B5FC7 /* BalloonDataViewController.m:359 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-pickerView:titleForRow:forComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 359;
+		location = SpaceCalc;
+		modificationTime = 303776838.2658809;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8DD7121B0DAF002B5FC7 /* BalloonDataViewController.m:365 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-pickerView:titleForRow:forComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 365;
+		location = SpaceCalc;
+		modificationTime = 303776838.268654;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8DEE121B0F0F002B5FC7 /* BalloonDataViewController.m:430 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-textFieldShouldBeginEditing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 430;
+		location = SpaceCalc;
+		modificationTime = 303776838.271432;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8EF9121B31BC002B5FC7 /* BalloonDataViewController.m:108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-calcData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 108;
+		location = SpaceCalc;
+		modificationTime = 303776838.274057;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8F14121B388C002B5FC7 /* BalloonDataViewController.m:116 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-calcData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 116;
+		location = SpaceCalc;
+		modificationTime = 303776838.27683;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8F16121B3890002B5FC7 /* BalloonDataViewController.m:111 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-calcData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 111;
+		location = SpaceCalc;
+		modificationTime = 303776838.27978;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CEFC8F21121B3B2F002B5FC7 /* BalloonDataViewController.m:129 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28216C960DB411BC00E5133A /* BalloonDataViewController.m */;
+		functionName = "-calcData";
+		hitCount = 4;
+		ignoreCount = 0;
+		lineNumber = 129;
+		location = SpaceCalc;
+		modificationTime = 303776943.178205;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CEFC8F2E121B3BE4002B5FC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEFC8F2F121B3BE4002B5FC7 /* math.h */;
+		name = "math.h: 347";
+		rLen = 4;
+		rLoc = 14704;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 13831;
+	};
+	CEFC8F2F121B3BE4002B5FC7 /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	CEFC8F35121B3C8C002B5FC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* BalloonDataViewController.h */;
+		name = "BalloonDataViewController.h: 63";
+		rLen = 6;
+		rLoc = 2152;
+		rType = 0;
+		vrLen = 1532;
+		vrLoc = 808;
+	};
+}

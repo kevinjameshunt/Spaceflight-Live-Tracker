@@ -1,0 +1,9 @@
+#message_window { 
+        width: 400px;
+	left: 0; bottom: 0; 
+	border-left: none;
+	border-bottom: none;
+        max-height: 400px;
+        overflow: scroll;
+    display:block;
+}
